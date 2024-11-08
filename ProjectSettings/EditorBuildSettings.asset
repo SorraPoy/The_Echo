@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/Chapter 1.unity
+    guid: 585abf4a16209be4399d1f84caae8385
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/Chapter 2.unity
+    guid: 81f1e0d8156ecb7499129189c77dae30
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/Chapter 3.unity
+    guid: bb9640a40d1a7fa47acf52f57958d348
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/Epilogue.unity
+    guid: 6e25931fcc234bb4eb568beabf6b326a
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/GlitchEpilogue.unity
+    guid: b7da49504ce0efe41a43af7d5683c81e
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/NeverEnd.unity
+    guid: b1202cd0696e15747b4317d6717ffa12
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/TrueEnd.unity
+    guid: ecd172d3f5646924b86320f315ece019
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/Logic.unity
+    guid: cbf748702ee96f244ac63b5bb313e9ae
+  - enabled: 1
+    path: Assets/Scenes/EpilogueScene.unity
+    guid: b69c96ded5f2e5e4d87ae1c7de886f91
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: b118403fc99955f4fa27ea84003d3cb7
+  - enabled: 1
+    path: Assets/Scenes/00TextScreen/DestroySong.unity
+    guid: 09b27513757ed5349a1b6c4b6ece9a39
+  - enabled: 1
+    path: Assets/Scenes/0ThemePark/ParkDayMain.unity
+    guid: 456316664fd4ab441907144c0107cd29
+  - enabled: 1
+    path: Assets/Scenes/0ThemePark/ParkNightMain.unity
+    guid: 899a9edbc686d0043851f50595a7f2bd
+  - enabled: 1
+    path: Assets/Scenes/1Circus/0_StaffTent.unity
+    guid: 33ef4928544f9654f8e325b3e2a0d083
+  - enabled: 1
+    path: Assets/Scenes/1Circus/1_Circus1.unity
+    guid: 4ee94abe7245a7345b9bd22e9b937754
+  - enabled: 1
+    path: Assets/Scenes/1Circus/2_FirstFlashback.unity
+    guid: ccb1619aec9827b438e8b0288ca49189
+  - enabled: 1
+    path: Assets/Scenes/1Circus/3_Circus2.unity
+    guid: 8454fbb99f209b2499ac6e2c08860246
+  - enabled: 1
+    path: Assets/Scenes/1Circus/4_BeforeCrash.unity
+    guid: cadb56b36418f204d9f4c0df47623ba5
+  - enabled: 1
+    path: Assets/Scenes/1Circus/5_Circus3.unity
+    guid: 15e9f00fcd317f94babf3e046e5d9183
+  - enabled: 1
+    path: Assets/Scenes/1Circus/6_Middle.unity
+    guid: ae50e2ba145467548b36800de3cbe5ec
+  - enabled: 1
+    path: Assets/Scenes/1Circus/7_FrontRoad.unity
+    guid: 1c77502c64ec2ef4d98f6e3292effeb7
+  - enabled: 1
+    path: Assets/Scenes/2Ferriswheel/0_BeforeFerris.unity
+    guid: 0e76ab493f2964d439028046d0d648f8
+  - enabled: 1
+    path: Assets/Scenes/2Ferriswheel/1_Ferris.unity
+    guid: 978db1feec9698641bff42ad413545aa
+  - enabled: 1
+    path: Assets/Scenes/2Ferriswheel/2_FlashbackKid.unity
+    guid: 2a7e0ddefc5bb5142a05de0f0caa76f6
+  - enabled: 1
+    path: Assets/Scenes/3Carousel/0_BeforeCarousel.unity
+    guid: 2330147043f17bc4f9a282bb30f9f381
+  - enabled: 1
+    path: Assets/Scenes/3Carousel/1_Carousel.unity
+    guid: 92724b366f4f9f843bb8a2c8f46847aa
+  - enabled: 1
+    path: Assets/Scenes/3Carousel/2_FlashbackAdult.unity
+    guid: a5464020bd1a9104b959a5fe5ee79838
+  - enabled: 1
+    path: Assets/Scenes/4Viking/0_BeforeViking.unity
+    guid: ad3335c1e7667cf42853f29cdc61495c
+  - enabled: 1
+    path: Assets/Scenes/4Viking/1_Viking1.unity
+    guid: e6c1d55ba24719c48bca17cc2ed43595
+  - enabled: 1
+    path: Assets/Scenes/4Viking/2_InCage.unity
+    guid: 7c1af41429c727b409b85c7078fc4d31
+  - enabled: 1
+    path: Assets/Scenes/4Viking/3_Viking2.unity
+    guid: 62a25506823b84e499774f81413ff608
+  - enabled: 1
+    path: Assets/Scenes/4Viking/4_Incage.unity
+    guid: c3da24341e80bb747a55ad6b52f2ad16
+  - enabled: 1
+    path: Assets/Scenes/4Viking/5_Viking4.unity
+    guid: e0df1f41962942e4aa454826fdafe242
+  - enabled: 1
+    path: Assets/Scenes/4Viking/6_cage.unity
+    guid: c7557aa4b951926448897abda60af60d
+  - enabled: 1
+    path: Assets/Scenes/4Viking/7_Viking5.unity
+    guid: 16ed99a4f12528e4b8e6404be4ddadb7
+  - enabled: 1
+    path: Assets/Scenes/4Viking/8_Freedom.unity
+    guid: f8077894037c76d47a546c48d873f0af
+  - enabled: 1
+    path: Assets/Scenes/4Viking/9_Viking6.unity
+    guid: e5692c38cb6ee5040a10e0e8af517b2d
+  - enabled: 1
+    path: Assets/Scenes/5Cave/0_BeforeCave.unity
+    guid: 40ced7f785725b84a9d5dcdca3e4766b
+  - enabled: 1
+    path: Assets/Scenes/5Cave/1_Cave1.unity
+    guid: 092735b24ce26c34ab21bdd2414662bb
+  - enabled: 1
+    path: Assets/Scenes/5Cave/2_Room.unity
+    guid: be319ab705c930b43a440c8a7f3b956e
+  - enabled: 1
+    path: Assets/Scenes/5Cave/3_Cave2.unity
+    guid: be781ce40033aa64990e21fe5681630d
+  - enabled: 1
+    path: Assets/Scenes/5Cave/4_Picture.unity
+    guid: 351313fb7bb245d4088083e1e467569f
+  - enabled: 1
+    path: Assets/Scenes/5Cave/5_Cave3.unity
+    guid: 2552bfc60dc33904dbb1cfcb02a40b75
+  - enabled: 1
+    path: Assets/Scenes/5Cave/6_WalkToFront.unity
+    guid: 8daa94855c97f8b479ae47fd2bec2184
+  - enabled: 1
+    path: Assets/Scenes/5Cave/7_Cave4.unity
+    guid: a9f760d334a31e6448fed5428f975407
+  - enabled: 1
+    path: Assets/Scenes/5Cave/8_Outside.unity
+    guid: ccbad751150125040aaa1ecd5bed3ff0
+  - enabled: 1
+    path: Assets/Scenes/5Cave/9_Cave5.unity
+    guid: 40c8c336f6dd0cb4e8b6bc0ac13c1566
+  - enabled: 1
+    path: Assets/Scenes/5Cave/AfterCave.unity
+    guid: d38a5ce0c00f2b640812681407b34424
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/0_BeforeRoller.unity
+    guid: c63d763d8900fc7419f32bd5cdfecaf8
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/1_Roller1.unity
+    guid: 4be8f9e1fa7204443bb64a0978085680
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/2_House.unity
+    guid: b1ac1225d21ceea478a75a39f681fce5
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/3_Roller2.unity
+    guid: 3997aa072d859204cb83626c7002b867
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/4_Roadside.unity
+    guid: acf58662ad1b13147ae6f3a6e9c902f4
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/5_Roller3.unity
+    guid: 71f9d0a2accdf284daa79965a41a2f2d
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/6_Crash.unity
+    guid: fcd74a1c989be6a4facbb0959c718451
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/7_Roller4.unity
+    guid: 50c40bf16cbe0894b95bba2a1ed94d06
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/8_Hospital1.unity
+    guid: 7df84663bce29674ba8e4cf1f9ea0eb7
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/9_Roller5.unity
+    guid: 77776c26f6e719a45935e029c5ec645e
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/10_Hospital2.unity
+    guid: d9c184fbc95a59546923510fcaed1bf1
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/11_Roller6.unity
+    guid: 4e67d2501380d1447b258e40676c0bf1
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/12_Hospital3.unity
+    guid: 9aade3ba33139414889b7ac61f6fb5af
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/13_Roller7.unity
+    guid: 8eeb15a7362d55d48b7b25897be1b015
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/14_Hospital4.unity
+    guid: ebfd7cdd037a16140a405d33560ad55a
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/15_Roller8.unity
+    guid: db09bf8e5fe00d344b70504d3bbec584
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/16_Hospital5.unity
+    guid: 1c54d0dd9ad774d4a90524e8deb169d0
+  - enabled: 1
+    path: Assets/Scenes/6RollerCoaster/17_Roller9.unity
+    guid: 5070adf575e5758478516b5532a42917
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/0_BeforeMystery.unity
+    guid: 96860e7889940ba4695add343c552ac7
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/1._Mystery.unity
+    guid: d28403a2aea52a54bac5be1d39ff8606
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/2_Dad.unity
+    guid: 0c7c4dbff8255ce408e8c7b0565d45d9
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/3_WalkToBird.unity
+    guid: c29d38ed2331f454688473758cb9c664
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/4_Bird.unity
+    guid: 459917ff091df084cab55ed2a2841010
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/5_WalkToMom.unity
+    guid: 52eb37fd0d5662443a6097233abe78a9
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/6_Mom.unity
+    guid: 34f1ef91b4a8a1846ad07e11b5f50d00
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/7_WalkToFamily.unity
+    guid: 61d3e6d981d9095428a94fd418f87151
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/8_Family.unity
+    guid: 2f6b3176e3a7ec14283c1cf4f907cb49
+  - enabled: 1
+    path: Assets/Scenes/7MysteryHouse/9_WalkToSelf.unity
+    guid: 15e327af72d5a704084eb16605bbe007
+  m_configObjects: {}
